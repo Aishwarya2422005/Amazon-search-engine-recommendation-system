@@ -14,9 +14,15 @@ Enter a product name or a query in the search bar.
 Click the Search button to retrieve the top 10 relevant products.
 Results are ranked by their similarity score and can be sorted by Category.
 Expand each result to view the product's Description and Category.
-![image](https://github.com/user-attachments/assets/3798ac08-b806-426b-9956-b963d638437d)
+![image](https://github.com/user-attachments/assets/9d9c640f-0673-48eb-8d49-25ff59258c54)
+
+
+
 
 ![image](https://github.com/user-attachments/assets/19b2cd79-6270-4512-8783-2e240220b5b2)
+
+
+
 
 ![image](https://github.com/user-attachments/assets/259b0b23-5fa0-4b91-ada6-3e1a7dcf2295)
 
